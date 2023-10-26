@@ -7,6 +7,7 @@ This project aims to analyze crime rate information in Los Angeles since 2020 us
 ## Data Source
 
 The primary data source for this project is a government dataset containing crime data for Los Angeles since 2020.
+https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8
 
 ## AWS Services Utilized
 
