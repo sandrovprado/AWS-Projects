@@ -16,7 +16,8 @@ The primary data source for this project is a government dataset containing crim
 
 ## Visualizations Created
 
-1. **Most Common Crimes Donut Chart**: A donut chart has been generated to illustrate the most common types of crimes in Los Angeles. This visualization provides a quick overview of the prevalent crime categories.
+1. **Most Common Crimes Donut Chart**: A donut chart has been generated to illustrate the most common types of crimes in Los Angeles. This visualization provides a quick overview of the prevalent crime categories.<img width="1342" alt="Screen Shot 2023-10-26 at 12 31 51 PM" src="https://github.com/sandrovprado/AWS-Projects/assets/53231989/ab07e583-bdfe-42bb-98cb-d64bcac71944">
+
 
 2. **Crime Occurrence Map**: This visual takes the latitude and longitude of each crime site and plots them on a map. It provides a geographic representation of the types of crimes that have occurred at different coordinates within Los Angeles.
 
